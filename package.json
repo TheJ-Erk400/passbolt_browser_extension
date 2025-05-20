@@ -20,7 +20,7 @@
     "jssha": "~3.2.0",
     "kdbxweb": "2.1.1",
     "locutus": "~2.0.9",
-    "openpgp": "5.2.1",
+    "openpgp": "5.11.3",
     "papaparse": "^5.2.0",
     "passbolt-styleguide": "^3.12.1",
     "react": "17.0.2",
@@ -50,7 +50,7 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-shell": "^4.0.0",
-    "i18next-parser": "^6.5.0",
+    "i18next-parser": "^9.3.0",
     "jest": "^27.2.4",
     "jest-each": "^27.5.1",
     "jest-environment-jsdom": "^27.5.1",
@@ -60,8 +60,8 @@
     "jest-webextension-mock": "^3.7.22",
     "text-encoding-utf-8": "^1.0.2",
     "uuid": "^8.3.2",
-    "web-ext": "7.5.0",
-    "webpack": "^5.74.0",
+    "web-ext": "8.6.0",
+    "webpack": "^5.99.8",
     "webpack-cli": "^4.9.1"
   },
   "overrides": {
